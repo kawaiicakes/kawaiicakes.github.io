@@ -1,3 +1,9 @@
+---
+layout: page
+title: "ashleypod"
+permalink: /ashleypod
+---
+
 {
     "BFG Division": "https://github.com/kawaiicakes/kawaiicakes.github.io/raw/refs/heads/main/BFG%20Division.dfpwm",
     "Bóg się rodzi": "https://github.com/kawaiicakes/kawaiicakes.github.io/raw/refs/heads/main/Casimir_Peace.dfpwm",
